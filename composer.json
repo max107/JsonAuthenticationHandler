@@ -1,0 +1,17 @@
+{
+    "name": "max107/json-authentication-handler",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Falaleev Maxim",
+            "email": "max@studio107.ru"
+        }
+    ],
+    "require": {
+        "symfony/translation": "~3.0|~4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
