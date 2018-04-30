@@ -7,9 +7,9 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace HypeCorp\Component\JsonAuthenticationHandler\Tests;
+namespace Max107\Component\JsonAuthenticationHandler\Tests;
 
-use HypeCorp\Component\JsonAuthenticationHandler\AuthenticationSuccessHandler;
+use Max107\Component\JsonAuthenticationHandler\AuthenticationSuccessHandler;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Session\Session;

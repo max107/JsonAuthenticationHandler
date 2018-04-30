@@ -7,7 +7,7 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace HypeCorp\Component\JsonAuthenticationHandler;
+namespace Max107\Component\JsonAuthenticationHandler;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\RedirectResponse;
